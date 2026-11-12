@@ -1,5 +1,9 @@
 # Beat Slap
 
+<p align="center">
+  <img src="docs/screenshots/demo-intro.png" alt="Beat Slap intro screen" width="100%">
+</p>
+
 **Beat Slap** is a top-down 2D rhythm-action game developed as a two-person university project in 2022.
 
 The project reached a playable demo and combines real-time combat with rhythm-driven gameplay: player actions and abilities are evaluated against the music timing, while audiovisual feedback reinforces successful hits and combos.
@@ -82,11 +86,23 @@ See **[source/README.md](source/README.md)** for provenance details.
 
 ## Screenshots & Gameplay
 
-Archived screenshots and gameplay media from the playable demo can be added here.
+<p align="center">
+  <img src="docs/screenshots/demo-gameplay1.png" alt="Beat Slap gameplay" width="48%">
+  <img src="docs/screenshots/demo-gameplay2.png" alt="Beat Slap combat and rhythm gameplay" width="48%">
+</p>
+
+<p align="center">
+  <img src="docs/screenshots/demo-gameplay3.png" alt="Beat Slap rhythm combat encounter" width="48%">
+  <img src="docs/screenshots/demo-gameplay4.png" alt="Beat Slap demo gameplay" width="48%">
+</p>
+
+The screenshots above are archived material from the playable university demo.
 
 ## Demo
 
-A playable archived demo may be added as a GitHub Release after the original build and included assets have been reviewed for redistribution.
+A playable archived Windows build is available through the **[v1.0-demo GitHub Release](https://github.com/robin-schneider-dev/beat-slap/releases/tag/v1.0-demo)**.
+
+Download `beat-slap-windows-demo.zip`, extract the archive and start the included Windows executable.
 
 ## Project Status
 
